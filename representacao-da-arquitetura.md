@@ -4,6 +4,8 @@
 
 O modelo de arquitetura adotado foi XXX \(MVC, MVP, MVVM, ...\)
 
+![Arquitetura da Solucao](.gitbook/assets/Funcionamento_usuarios_soap.jpg)
+
 Explicar a lógica entre as camadas
 
 * A
