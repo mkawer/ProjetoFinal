@@ -6,6 +6,10 @@
 
 ![Rascunho02](.gitbook/assets/rascunho_02.jpg)
 
+## Comparativo com o que utilizamos hoje
+
+![Comparativo](.gitbook/assets/tabela_comparativa.jpg)
+
 ## Protótipos de Alta Fidelidade
 
 ### Alteraçao de Nomenclatura/Criação de Ramais
