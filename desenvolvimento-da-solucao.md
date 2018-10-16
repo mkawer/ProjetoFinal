@@ -1,5 +1,11 @@
 # Desenvolvimento da Solução
 
+## Brainstorm da Solução
+
+![Rascunho01](.gitbook/assets/rascunho_01.jpg)
+
+![Rascunho02](.gitbook/assets/rascunho_02.jpg)
+
 ## Protótipos de Alta Fidelidade
 
 ### Alteraçao de Nomenclatura/Criação de Ramais
