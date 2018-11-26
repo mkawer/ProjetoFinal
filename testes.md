@@ -9,6 +9,8 @@ No parecer da equipe local, ferramenta atendeu conforme esperado, porém foi rep
 ## Validação junto ao Cliente
 No Book de Negócios foi possível ver o ganho que a ferramenta trouxe para empresa, quantidade de tickets da categoria em questão reduziu em 75% no primeiro mês de uso.
 
+De uma esacala de 120–130 chamados para configurações de ramais, que implementa em novos ramais, novas lojas e alteração de nomenclatura de ramais, no mês seguinte já foi obtido uma redução para 30 chamados.
+
 ![TOP_OFENSORES_SET](.gitbook/assets/top_ofensores_set.png)
 
 ## Tickets atendidos antes e depois da utilização da ferramenta
